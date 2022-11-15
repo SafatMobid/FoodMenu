@@ -24,7 +24,6 @@ desserts:
 
 window.onload = function () 
 {
-
     const menuList = document.getElementById("menuList");
     const foodList = document.getElementById("foodList")
     menuList.onchange = foodListChange;
